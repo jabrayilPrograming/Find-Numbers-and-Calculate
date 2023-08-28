@@ -1,0 +1,14 @@
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.exe
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.deps.json
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.runtimeconfig.json
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.runtimeconfig.dev.json
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.dll
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\bin\Debug\netcoreapp3.1\startProject c#.pdb
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.csproj.AssemblyReference.cache
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.AssemblyInfoInputs.cache
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.AssemblyInfo.cs
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.csproj.CoreCompileInputs.cache
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.dll
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.pdb
+C:\Users\Jabrayil\Desktop\BackEnd c#\startProject c#\startProject c#\obj\Debug\netcoreapp3.1\startProject c#.genruntimeconfig.cache
